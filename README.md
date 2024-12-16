@@ -1,6 +1,6 @@
 ## Detection of Human Traffic Controllers Wearing Construction Workwear via Synthetic Data Generation
 
-### Seunghyun Baik, Youngjo Lee, Euntai Kim
+### Seunghyun Baik, Euntai Kim
 
 ## Donwload HTC600 dataset
 You can download HTC600 dataset below link.
