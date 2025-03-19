@@ -6,7 +6,8 @@
 You can download HTC600 dataset below link.
 * [MS OneDrive](https://yonsei-my.sharepoint.com/:f:/g/personal/shbaik104_o365_yonsei_ac_kr/EoIkt1Mk_DlKnNlh71Ol1OUBBXY0zvfkgah2FbreniK3-Q?e=VZeCsn)
 
-## Bibtex
+## BibTeX
+```bibtex
 @article{baik2025detection,
   title={Detection of Human Traffic Controllers Wearing Construction Workwear via Synthetic Data Generation},
   author={Baik, Seunghyun and Kim, Euntai},
